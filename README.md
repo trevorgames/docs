@@ -1,6 +1,6 @@
 # Introduction
 
-Trevor is the decentralized game publisher on [Taiko](https://taiko.xyz/) designed for fully onchain games, especially those developed with[ MUD](https://mud.dev/). Trevor is not just a platform; it's a groundbreaking paradigm shift in the way we experience, create, and share games.
+Trevor is the decentralized game publisher on [Celestia ](https://celestia.org/)designed for fully onchain games, especially those developed with[ MUD](https://mud.dev/). Trevor is not just a platform; it's a groundbreaking paradigm shift in the way we experience, create, and share games.
 
 ## $TRV
 
