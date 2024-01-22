@@ -1,7 +1,7 @@
 ---
 description: >-
-  All production (mainnet) contracts are on Taiko and development (testnet)
-  contracts are on Taiko Sepolia, unless otherwise stated.
+  All production (mainnet) contracts are on Celestia and development (testnet)
+  contracts are on Arabica devnet, unless otherwise stated.
 ---
 
 # Contracts
