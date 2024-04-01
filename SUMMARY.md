@@ -21,6 +21,7 @@
 * [Player Identity & Progression](infrastructure/player-identity-and-progression/README.md)
   * [TrevorLabels](infrastructure/player-identity-and-progression/trevorlabels.md)
   * [Badges & Achievements](infrastructure/player-identity-and-progression/badges-and-achievements.md)
+* [Running a Trevor Node](infrastructure/running-a-trevor-node.md)
 
 ## REFERENCES
 
