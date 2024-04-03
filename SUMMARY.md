@@ -1,13 +1,21 @@
 # Table of contents
 
+* [About Trevor](README.md)
+* [TRV](trv/README.md)
+  * [What is TRV?](trv/what-is-trv.md)
+  * [Tokenomics](trv/tokenomics.md)
+* [Ecosystem](ecosystem/README.md)
+  * [NFT Ecosystem](ecosystem/nft-ecosystem.md)
+  * [DeFi Ecosystem](ecosystem/defi-ecosystem.md)
+
 ## About Trevor
 
-* [Introduction](README.md)
-* [Roadmap](about-trevor/roadmap.md)
-* [Governance](about-trevor/governance/README.md)
-  * [Reporting](about-trevor/governance/reporting.md)
-  * [Improvement Proposals](about-trevor/governance/improvement-proposals.md)
-* [Tokenomics](about-trevor/tokenomics.md)
+* [Introduction](about-trevor-1/readme.md)
+* [Roadmap](about-trevor-1/roadmap.md)
+* [Governance](about-trevor-1/governance/README.md)
+  * [Reporting](about-trevor-1/governance/reporting.md)
+  * [Improvement Proposals](about-trevor-1/governance/improvement-proposals.md)
+* [Tokenomics](about-trevor-1/tokenomics.md)
 * [Visit Trevor](https://www.trevorgames.xyz/)
 
 ## INFRASTRUCTURE
