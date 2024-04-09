@@ -6,10 +6,16 @@
   * [NFT Ecosystem](ecosystem/nft-ecosystem/README.md)
     * [NFT Creation](ecosystem/nft-ecosystem/nft-creation.md)
     * [Listing NFTs](ecosystem/nft-ecosystem/listing-nfts.md)
-  * [DeFi Ecosystem](ecosystem/defi-ecosystem.md)
-* [TRV](trv/README.md)
-  * [What is TRV?](trv/what-is-trv.md)
-  * [Tokenomics](trv/tokenomics.md)
+    * [Remove or Modify NFT](ecosystem/nft-ecosystem/remove-or-modify-nft.md)
+    * [NFT Transfer](ecosystem/nft-ecosystem/nft-transfer.md)
+    * [NFT Trading](ecosystem/nft-ecosystem/nft-trading.md)
+  * [DeFi Ecosystem](ecosystem/defi-ecosystem/README.md)
+    * [Bridge](ecosystem/defi-ecosystem/bridge.md)
+    * [Liquidity Mining](ecosystem/defi-ecosystem/liquidity-mining.md)
+    * [TRV Staking and Locking](ecosystem/defi-ecosystem/trv-staking-and-locking.md)
+* [Token Economics](token-economics/README.md)
+  * [What is TRV?](token-economics/what-is-trv.md)
+  * [Tokenomics](token-economics/tokenomics.md)
 
 ## About Trevor
 
