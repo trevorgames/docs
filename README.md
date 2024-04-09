@@ -1,23 +1,11 @@
-# About Trevor
+# 👏 Welcome To Trevor
 
-Trevor is a full-chain gaming platform that aims to provide a more direct, fair and transparent gaming ecosystem between game developers and players. It brings new possibilities to the development of the gaming industry and promotes the application and innovation of blockchain technology in the gaming field.
+## Welcome To Trevor - The World Of Full-Chain Gaming!
 
-**Decentralized**&#x20;
+We are delighted to have you join Trevor in embracing the new world of full-chain gaming, moving towards a fully decentralized, absolutely open, and completely fair gaming environment where all contracts are executed fairly. As pioneers in the "full-chain gaming platform" revolution, we have redefined gaming by combining cutting-edge technology, social engagement, and blockchain innovation. You can unearth value tokens by participating in games, enjoying the game while earning actual profits.
 
-The Trevor platform adopts a decentralized architecture, with its proprietary L2 public chain, Trevor Sepolia, ensuring smooth gameplay. Game data and logic are stored on the blockchain, free from the control of a single centralized server, ensuring fairness and transparency of game outcomes.
+## About This Document
 
-**Smart contract**
+This document is a comprehensive guide designed to help you delve deeper into the exciting world of Trevor. Within this document, you will find an introduction to the Trevor platform, gameplay for each game, and how to unearth value tokens from the games.
 
-The game logic and operations on the Trevor platform are executed using smart contracts, enabling automated execution of game logic and transaction settlements. This avoids intermediaries' intervention, ensuring the enforcement of game rules and the security of funds.
-
-**Digital Asset Trading**
-
-Virtual items, game props, and game assets obtained by players within the Trevor platform are all genuine digital assets. Players can freely trade and transfer virtual assets on the platform, owning the ownership of the assets. At the same time, the Marketplace trading market also provides liquidity for assets.
-
-**Community Governance**
-
-The platform adopts a mechanism of community governance, allowing players and developers to participate jointly in the governance and decision-making of the platform, ensuring the healthy development of the game ecosystem.
-
-**Cross-Game Interoperability**
-
-The application of blockchain technology enables assets from different games to be transferred and shared, promoting cooperation and interaction across games.
+To begin, please use the navigation menu on the left to browse different sections and topics. Whether you're looking to understand platform features, explore gameplay, or discover ways to unearth value tokens, this document has you covered. Feel free to navigate between sections to find answers to your questions and explore our latest updates and features. Let's embark together on the new world of full-chain gaming!

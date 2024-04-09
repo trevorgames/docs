@@ -1,12 +1,15 @@
 # Table of contents
 
-* [About Trevor](README.md)
+* [👏 Welcome To Trevor](README.md)
+* [📱 About Trevor](<README (1).md>)
+* [🕹️ Ecosystem](ecosystem/README.md)
+  * [NFT Ecosystem](ecosystem/nft-ecosystem/README.md)
+    * [NFT Creation](ecosystem/nft-ecosystem/nft-creation.md)
+    * [Listing NFTs](ecosystem/nft-ecosystem/listing-nfts.md)
+  * [DeFi Ecosystem](ecosystem/defi-ecosystem.md)
 * [TRV](trv/README.md)
   * [What is TRV?](trv/what-is-trv.md)
   * [Tokenomics](trv/tokenomics.md)
-* [Ecosystem](ecosystem/README.md)
-  * [NFT Ecosystem](ecosystem/nft-ecosystem.md)
-  * [DeFi Ecosystem](ecosystem/defi-ecosystem.md)
 
 ## About Trevor
 
