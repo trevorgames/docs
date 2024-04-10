@@ -1,2 +1,2 @@
-# NFT Ecosystem
+# 👾 NFT Ecosystem
 

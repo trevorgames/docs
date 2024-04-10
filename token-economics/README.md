@@ -1,2 +1,2 @@
-# TRV
+# 🛟 Token Economics
 
