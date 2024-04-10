@@ -1,22 +1,23 @@
 # Table of contents
 
 * [👏 Welcome To Trevor](README.md)
-* [📱 About Trevor](<README (1).md>)
-* [🕹️ Ecosystem](ecosystem/README.md)
+* [🤖 About Trevor](<README (1).md>)
+* [🌎 Ecosystem](ecosystem/README.md)
   * [👾 NFT Ecosystem](ecosystem/nft-ecosystem/README.md)
     * [🪪 NFT Creation](ecosystem/nft-ecosystem/nft-creation.md)
     * [⛪ Listing NFTs](ecosystem/nft-ecosystem/listing-nfts.md)
     * [♐ Remove or Modify NFT](ecosystem/nft-ecosystem/remove-or-modify-nft.md)
-    * [NFT Transfer](ecosystem/nft-ecosystem/nft-transfer.md)
-    * [NFT Trading](ecosystem/nft-ecosystem/nft-trading.md)
+    * [⚧ NFT Transfer](ecosystem/nft-ecosystem/nft-transfer.md)
+    * [🔄 NFT Trading](ecosystem/nft-ecosystem/nft-trading.md)
   * [🌳 DeFi Ecosystem](ecosystem/defi-ecosystem/README.md)
-    * [Bridge](ecosystem/defi-ecosystem/bridge.md)
-    * [Liquidity Mining](ecosystem/defi-ecosystem/liquidity-mining.md)
-    * [TRV Staking and Locking](ecosystem/defi-ecosystem/trv-staking-and-locking.md)
+    * [🌉 Bridge](ecosystem/defi-ecosystem/bridge.md)
+    * [♋ Liquidity Mining](ecosystem/defi-ecosystem/liquidity-mining.md)
+    * [🛄 TRV Staking and Locking](ecosystem/defi-ecosystem/trv-staking-and-locking.md)
 * [🛟 Token Economics](token-economics/README.md)
-  * [TRV Token](token-economics/trv-token.md)
-  * [Scenarios](token-economics/scenarios.md)
-  * [Repurchase and Burn](token-economics/repurchase-and-burn.md)
+  * [💎 TRV Token](token-economics/trv-token.md)
+  * [💫 Scenarios](token-economics/scenarios.md)
+  * [🔥 Repurchase and Burn](token-economics/repurchase-and-burn.md)
+* [🎮 Games Guide](games-guide.md)
 
 ## About Trevor
 

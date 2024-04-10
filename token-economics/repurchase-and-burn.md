@@ -1,4 +1,4 @@
-# Repurchase and Burn
+# 🔥 Repurchase and Burn
 
 ## Game NFT Minting Fee Destruction&#x20;
 

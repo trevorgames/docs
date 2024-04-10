@@ -1,4 +1,4 @@
-# Scenarios
+# 💫 Scenarios
 
 ## Platform Governance Token&#x20;
 
