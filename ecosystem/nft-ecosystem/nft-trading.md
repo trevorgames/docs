@@ -1,2 +1,2 @@
-# NFT Trading
+# 🔄 NFT Trading
 

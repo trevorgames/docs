@@ -2,13 +2,13 @@
 description: This guide will walk you through setting up your own Trevor Node.
 ---
 
-# Running a Trevor Node
+# Join the Trevor Network
 
 ### Objectives[​](https://docs.base.org/tutorials/run-a-base-node#objectives) <a href="#objectives" id="objectives"></a>
 
 By the end of this guide you should be able to:
 
-* Deploy and sync a Base node
+* Deploy and sync a Trevor node
 
 ### Prerequisites[​](https://docs.base.org/tutorials/run-a-base-node#prerequisites) <a href="#prerequisites" id="prerequisites"></a>
 

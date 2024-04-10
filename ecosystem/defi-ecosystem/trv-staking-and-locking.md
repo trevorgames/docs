@@ -1,3 +1,3 @@
-# TRV Staking and Locking
+# 🛄 TRV Staking and Locking
 
 come soon!

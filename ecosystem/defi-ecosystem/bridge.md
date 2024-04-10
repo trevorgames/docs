@@ -1,4 +1,4 @@
-# Bridge
+# 🌉 Bridge
 
 The Trevor Bridge is a tool that links Sepolia (L1) and Trevor Sepolia (L2), facilitating the transfer and exchange of assets between the two chains.
 

@@ -1,4 +1,4 @@
-# 📱 About Trevor
+# 🤖 About Trevor
 
 Trevor is a full-chain gaming platform that aims to provide a more direct, fair and transparent gaming ecosystem between game developers and players. It brings new possibilities to the development of the gaming industry and promotes the application and innovation of blockchain technology in the gaming field.
 

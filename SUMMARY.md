@@ -40,7 +40,11 @@
 * [Player Identity & Progression](infrastructure/player-identity-and-progression/README.md)
   * [TrevorLabels](infrastructure/player-identity-and-progression/trevorlabels.md)
   * [Badges & Achievements](infrastructure/player-identity-and-progression/badges-and-achievements.md)
-* [Running a Trevor Node](infrastructure/running-a-trevor-node.md)
+
+## DEVELOPERS
+
+* [Join the Trevor Network](developers/join-the-trevor-network.md)
+* [Spin up your own Trevor devnet](developers/spin-up-your-own-trevor-devnet.md)
 
 ## REFERENCES
 
